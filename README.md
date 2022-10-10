@@ -17,7 +17,7 @@
 <h2>About me:</h2>
 <ul>
   <li>🛠 I am an IT-engineer and a <strong>Full-Stack-Developer</strong> from Finland.</li>
-  <li>🚀 Currently improving myself with <strong>React</strong> and <strong>Redux</strong></li>
+  <li>🚀 Currently improving myself with <strong>TypeScript</strong> and <strong>PostgreSQL</strong></li>
   <li>💼 Currently working for a Telecom company, configuring network devices and creating scripts</li>
 </ul>
 
