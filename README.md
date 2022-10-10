@@ -18,7 +18,6 @@
 <ul>
   <li>🛠 I am an IT-engineer and a <strong>Full-Stack-Developer</strong> from Finland.</li>
   <li>🚀 Currently improving myself with <strong>TypeScript</strong> and <strong>PostgreSQL</strong></li>
-  <li>💼 Currently working for a Telecom company, configuring network devices and creating scripts</li>
 </ul>
 
 <h2>🛠 Languages and Tools:</h2>
