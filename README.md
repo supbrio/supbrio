@@ -17,7 +17,7 @@
 <h2>About me:</h2>
 <ul>
   <li>🛠 I am an IT-engineer and a <strong>Full-Stack-Developer</strong> from Finland.</li>
-  <li>🚀 Currently improving myself with <strong>TypeScript</strong> and <strong>PostgreSQL</strong></li>
+  <li>🚀 Currently improving myself with <strong>Django</strong> and <strong>PostgreSQL</strong></li>
 </ul>
 
 <h2>🛠 Languages and Tools:</h2>
